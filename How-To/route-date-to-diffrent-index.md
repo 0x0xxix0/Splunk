@@ -87,4 +87,4 @@ FORMAT = sensor002
 
 
 NOTE:
-If in props.conf we will have 2 or more atributes with same name (or two or more witout name) active will be only last one.
+If we will have  2 or more atributes in props.conf with same name (or two or more witout name, that means all of it have same name NONE) active will be only last one.
