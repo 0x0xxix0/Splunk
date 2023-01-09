@@ -51,6 +51,7 @@ NO_BINARY_CHECK = true
 SHOULD_LINEMERGE = false
 category = Custom
 pulldown_type = 1
+#If 
 TRANSFORMS-drop = route-to-sensor001,route-to-sensor002,drop_sensor
 ```
 
@@ -83,3 +84,7 @@ FORMAT = sensor002
 <h1> Results of configurations. </h1>
 
 ![image](https://user-images.githubusercontent.com/119075926/211401157-377cd04f-f1a6-484d-a5de-375b79562e69.png)
+
+
+NOTE:
+If in props.conf we will have 2 or more atributes with same name (or two or more witout name) active will be only last one.
