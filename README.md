@@ -1,2 +1,1 @@
-# SPLUNK-Guru
-Repo for manage splunk knowlege. 
+# Тут зібрані HOW TO файли, які допоможуть адмініструвати та налаштовувати Splunk architecture.
