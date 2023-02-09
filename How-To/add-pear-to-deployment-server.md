@@ -1,12 +1,15 @@
-At Forwarder side.
+# Forwarder configuration
+
+One of the first step to configuration forwarder, its connect it to deployment server.
 
 
-deploymentclient.conf
+_deploymentclient.conf_
 
-
+```
 [target-broker:deploymentServer]
-targetUri = 192.168.87.130:8089 <-- deployment server ip
+targetUri = <deploymentServerIp>:8089 <-- deployment server ip
 
 [deployment-client]
 disabled = false
 clientName = <deploymentNewName>
+```
