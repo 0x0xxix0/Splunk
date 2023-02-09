@@ -1,4 +1,4 @@
-MC
+# Master Cluster (management role)
 
 <img width="925" alt="Screenshot 2023-02-08 at 13 46 33" src="https://user-images.githubusercontent.com/119075926/217521189-ec50d034-f5d4-4843-927d-6742253ffeee.png">
 <img width="561" alt="Screenshot 2023-02-08 at 13 46 44" src="https://user-images.githubusercontent.com/119075926/217521237-7db5c80b-066f-4ca5-9f47-d372c572e984.png">
@@ -11,7 +11,7 @@ RESULT MC
 
 
 
-PEARS
+# Indexers (pear role)
 
 <img width="584" alt="Screenshot 2023-02-08 at 14 04 56" src="https://user-images.githubusercontent.com/119075926/217524927-03d2edf6-4d84-443d-90f0-cb7190027fcb.png">
 
@@ -23,7 +23,7 @@ RESULT at pear indexer
 <img width="361" alt="Screenshot 2023-02-08 at 14 06 05" src="https://user-images.githubusercontent.com/119075926/217525191-e2a3e685-7668-4c0a-a183-2e483e01fd8b.png">
 
 
-Search Heads
+# Search Heads (search role)
 
 <img width="578" alt="Screenshot 2023-02-08 at 14 08 58" src="https://user-images.githubusercontent.com/119075926/217525774-56a836ca-ca34-4446-950e-e8bd041c8184.png">
 
