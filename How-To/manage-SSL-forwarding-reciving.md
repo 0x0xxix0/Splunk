@@ -135,7 +135,7 @@ ssl-recieving
 
 ### inputs.conf
 ```
-[splunktcp-ssl:<splunk_port>]
+[splunktcp-ssl:<ssl-reciever-port>]
 disabled = false
 
 [SSL]
@@ -146,6 +146,26 @@ sslPassword = <password from ServerPrivateKey>
 
 
 ### Налаштування SSL Forwarding
+
+Створюємо на деплойменті app <ssl-forwarding> який будемо пушити на форвардери.
+
+```
+ssl-forwarding
+ |_auth
+ |  |_ fwPrivate.key
+ |  |_ fwPrivateCert.csr
+ |  |_ fwPublicCert.pem
+ |  |_ forwarder.pem
+ |  |_ cacert.pem
+ |_local
+    |_ outputs.conf
+    |_ server.conf
+ 
+ 
+ 
+```
+
+
 
 1. Згенерувати новий приватний ключ для forwarder.
 
@@ -180,7 +200,7 @@ splunk cmd openssl x509 -req -in fwPrivateCert.csr -SHA256 -CA /opt/splunk/etc/a
 ```
 cat forwarder.pem >> forwarder.pem
 cat forwarder.key >> forwarder.pem 
-cat $SPLUNK_HOME/etc/auth/<CAFolder>/myCACertificate.pem >> forwarder_r.pem 
+cat $SPLUNK_HOME/etc/auth/<CAFolder>/myCACertificate.pem >> forwarder.pem 
 
 ```
  
@@ -199,7 +219,27 @@ cat $SPLUNK_HOME/etc/auth/appsCA.pem  >> cacert.pem
  * cacert.pem - обєднані СА сертифікати.
 
  
-6. Надати відповідні права для <ssl-forwarding>
+6. Створити _outputs.conf_
+
+```
+[tcpout]
+defaultGroup = <group_name>
+
+[tcpout:<group_name>]
+server = <ssl-reciever-ip>:<ssl-reciever-port>
+compressed = true
+sslCertPath = /opt/splunk/etc/apps/ssl-forwarding/auth/forwarder_r.pem
+sslPassword = <password_fwPrivate.key>
+```
+
+7. Створити _server.conf_ 
+
+```
+sslRootCAPath = $SPLUNK_HOME/etc/apps/ssl-forwarding/auth/cacert.pem
+```
+ 
+ 
+8. Надати відповідні права для <ssl-forwarding>
 
 ```
 chmod -R 640 ssl-forwarding/ -R
