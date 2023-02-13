@@ -24,7 +24,7 @@ sensor002 --> client002
 
 ![image](https://user-images.githubusercontent.com/119075926/218536439-27224dff-2c4c-41a9-9893-1440b83554a8.png)
 
-Примітка: Тут я тестово перейменую .dat файл адже може він і вимахувався при зміні індекса в класері 
+Примітка: Тут я тестово перейменую `.dat` файл адже може він і вимахувався при зміні індекса в класері 
 "These .dat files hold the next bucket ID to be created for that index, and they aren't influenced by homePath etc. settings in indexes.conf."
 
 ![image](https://user-images.githubusercontent.com/119075926/218542815-6f6a4a79-f43d-4621-9028-b49bfabeba6b.png)
@@ -36,8 +36,7 @@ sensor002 --> client002
 ![image](https://user-images.githubusercontent.com/119075926/218544175-0bd5c19d-02b9-4077-8122-a27d58060fc4.png)
 
 
-
-
+Примітка: Не забудь поміняти конфіги на форвардерах `inputs.conf`
 
 
 
