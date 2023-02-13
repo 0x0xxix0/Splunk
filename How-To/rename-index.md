@@ -1,4 +1,4 @@
-## Rename index `test` --> `client_syslog` with all data.
+## Rename index `test` --> `client_syslog` with all data IN CLUSTER.
 
 1. Stop Index-cluster.
 
