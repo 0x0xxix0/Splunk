@@ -26,5 +26,11 @@ Result
 
 ## Indexers
 
+Апка яка   прилетіла з МС
+
+<img width="408" alt="Screenshot 2023-02-14 at 11 08 25" src="https://user-images.githubusercontent.com/119075926/218689803-6feaa057-ba2e-4bf9-94bd-c44808f31b39.png">
+
+
+Де зберігаються дані 
 <img width="510" alt="Screenshot 2023-02-14 at 11 04 08" src="https://user-images.githubusercontent.com/119075926/218688785-9f255139-6a3e-4be4-a49b-293211b3d6ac.png">
 
