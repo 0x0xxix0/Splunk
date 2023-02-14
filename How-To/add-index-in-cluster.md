@@ -7,13 +7,10 @@
 ```
 [test]
 repFactor=auto
-homePath=/Splunk/indexes/test/db/
-coldPath=/Splunk/indexes/test/colddb/
-thawedPath=/Splunk/indexes/test/thaweddb/
+homePath=$SPLUNK_DB/<index_name>/db 
+coldPath=$SPLUNK_DB/<index_name>/cloddb
+thawedPath=$SPLUNK_DB/<index_name>/thaweddb 
 ```
-
-
-<img width="347" alt="Screenshot 2023-02-14 at 09 44 11" src="https://user-images.githubusercontent.com/119075926/218671463-178991d9-5a62-4707-820f-c403c8bbbdf6.png">
 
 Run Distribute Configuration Bundle
 
@@ -26,4 +23,8 @@ Result
 
 
 <img width="1911" alt="Screenshot 2023-02-14 at 10 17 39" src="https://user-images.githubusercontent.com/119075926/218678215-d490681e-e3ff-440a-a047-00719bcff87d.png">
+
+## Indexers
+
+<img width="510" alt="Screenshot 2023-02-14 at 11 04 08" src="https://user-images.githubusercontent.com/119075926/218688785-9f255139-6a3e-4be4-a49b-293211b3d6ac.png">
 
