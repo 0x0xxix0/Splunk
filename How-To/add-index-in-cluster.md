@@ -2,6 +2,9 @@
 
 `$SPLUNK_HOME/etc/master-apps/<index_name_app>/local/indexes.conf`
 
+> ! Примітка: в спланку 9.х використовуй `$SPLUNK_HOME/etc/manager-apps/<index_name_app>/local/indexes.conf`
+
+
 <img width="438" alt="Screenshot 2023-02-14 at 09 43 50" src="https://user-images.githubusercontent.com/119075926/218671397-7f62895d-e5a0-4f05-b2fd-e6843722384d.png">
 
 ```
