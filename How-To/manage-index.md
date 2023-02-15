@@ -320,6 +320,8 @@ coldToFrozenScript = <path to script interpreter> <path to script>
 
 
 ### `frozenTimePeriodInSecs ` - кількість секунд після яких дані індекса підуть в frozen
+
+якщо ВСІ івенти старші за цей час. то вони в frozen падають.
  = <nonnegative integer>
 * The number of seconds after which indexed data rolls to frozen.
 * If you do not specify a 'coldToFrozenScript', data is deleted when rolled to
