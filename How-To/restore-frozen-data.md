@@ -27,3 +27,9 @@
 
 
 <img width="2549" alt="Screenshot 2023-02-15 at 17 37 48" src="https://user-images.githubusercontent.com/119075926/219075572-1bcae129-b641-4817-b83f-07552bde06d8.png">
+
+Тільки за той проміжок що востановив, ве до секунлди ))
+
+<img width="2540" alt="Screenshot 2023-02-15 at 17 46 19" src="https://user-images.githubusercontent.com/119075926/219078031-75ed43d3-3bbe-4f0a-afab-6f19c1737eb2.png">
+
+
