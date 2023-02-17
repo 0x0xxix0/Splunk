@@ -70,6 +70,18 @@ START SPLUNK алілуя
 <img width="2515" alt="Screenshot 2023-02-17 at 18 00 45" src="https://user-images.githubusercontent.com/119075926/219703620-6f96172c-ca32-429d-8ac0-a4a045bffb0a.png">
 
 
+ПЕРЕВІРКА 
+
+SA
+<img width="2527" alt="Screenshot 2023-02-17 at 18 03 03" src="https://user-images.githubusercontent.com/119075926/219704123-adf30ba2-3051-4b3f-b04c-9d32a054bed7.png">
+
+<img width="2552" alt="Screenshot 2023-02-17 at 18 05 39" src="https://user-images.githubusercontent.com/119075926/219704680-f716eb81-f5ad-4d4d-9bb5-defd53ad412b.png">
+
+SB
+ <img width="2530" alt="Screenshot 2023-02-17 at 18 03 28" src="https://user-images.githubusercontent.com/119075926/219704219-5afdb266-8b8e-426f-a2a8-e2878d5064fd.png">
+
+<img width="2547" alt="Screenshot 2023-02-17 at 18 05 52" src="https://user-images.githubusercontent.com/119075926/219704723-68dd9859-604e-4b5a-9e1a-21f7b15b9890.png">
+
 
 
 
