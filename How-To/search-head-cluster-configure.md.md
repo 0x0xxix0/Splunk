@@ -3,7 +3,7 @@
 ## Deployer:
 
 ``
-# nano /opt/splunk/etc/system/local/server.conf
+nano /opt/splunk/etc/system/local/server.conf
 ``
 
 ``
