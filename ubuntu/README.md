@@ -2,24 +2,22 @@
 
 # Management
 
-## Cluster Master:
 
-- [ ] Як створити власний  Сertificate Аutority (CA). 
-- [ ] Як створити SSL forwarding app.
-- [ ] Як створити SSL recieving app.
-- [ ] Як створити SSL replication app (for-index-cluster).
+### CA
+- [x] Як створити власний  Сertificate Аutority (CA). 
+- [x] Як створити SSL forwarding app.
+- [x] Як створити SSL recieving app.
+- [x] Як створити SSL replication app (for-index-cluster).
+
 
 - [ ] Як налаштувати Monitorig console.
 - [ ] Як налаштувати Licence server.
 - [ ] Як налаштувати Index кластер.
-- [ ] Як налаштувати реплікацію по SSL.
 - [ ] Неймінг конвеншн індексів.
 - [ ] Як створити новий індекс на кластер індексерів. 
 - [ ] Як встановити нову App на кластер індексерів.
 
-
-
-## Deployment Server
+### Deployment Server
 
 - [ ] Як підключити форвардер до Deployment Server.
 - [ ] Як створити серверклас.
