@@ -1,3 +1,7 @@
+https://lsyncd.github.io/lsyncd/ DOCKA
+
+
+
 root@dlp:~# apt -y install lsyncd
 root@dlp:~# mkdir /etc/lsyncd
 root@dlp:~# vi /etc/lsyncd/lsyncd.conf.lua
