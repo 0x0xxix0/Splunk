@@ -95,8 +95,7 @@ __SH new__
 
 <img width="898" alt="Screenshot 2023-05-08 at 11 17 26" src="https://user-images.githubusercontent.com/119075926/236772830-2be06c35-77cb-4607-bec5-91f3681acd1c.png">
 
-Оскільки я не знаю чи важливі ці назви, я вирішив змінити імя файлу на __SH new__, оскільки він не містить додаткової інформації в __investigation_attachment  investigation_event  investigation_lead es_activity_queue  es_notable_events__
-
+Змінюємо імя файлу на __SH new__ (тут пофіг головне щоб вони за неймінг конвеншн спланка були названі)
 Перейменовуємо `.json` файл який на __SH new__.
 
 <img width="892" alt="Screenshot 2023-05-08 at 11 23 13" src="https://user-images.githubusercontent.com/119075926/236774033-ec245009-9be1-442a-8faf-466f898eb56e.png">
