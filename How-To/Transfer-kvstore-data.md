@@ -123,9 +123,10 @@ __SH new__
 
 ##  Крок 5. Формуємо новий бекап архів.
 
-`tar -xvzf test_backup.tar.gz *`
+`tar -cvzf test_backup.tar.gz *`
 
-<img width="892" alt="Screenshot 2023-05-08 at 11 38 32" src="https://user-images.githubusercontent.com/119075926/236777471-585942f2-10a1-4a50-a3a2-b0477ed3fab5.png">
+<img width="826" alt="Screenshot 2023-05-08 at 14 43 54" src="https://user-images.githubusercontent.com/119075926/236815308-7b3da13c-128b-4da2-ba3a-1dd32b13703d.png">
+
 
 
 ## Крок 6. Виконуємо відновлення з бекапу.
