@@ -140,6 +140,12 @@ __SH new__
 
 `./splunk show kvstore-status`
 
+В процесі:
+
+<img width="1040" alt="Screenshot 2023-05-08 at 14 49 49" src="https://user-images.githubusercontent.com/119075926/236816386-24f29bbd-ab67-4475-805e-62bef318f8fb.png">
+
+Завершився:
+
 <img width="691" alt="Screenshot 2023-05-08 at 11 43 42" src="https://user-images.githubusercontent.com/119075926/236778622-479f0c67-fd68-4efe-918b-be1675b3893d.png">
 
 
