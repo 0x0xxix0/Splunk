@@ -7,7 +7,7 @@
 | cisco:estreamer:netflow  |  net |  *_netflow |
 |  cisco:estreamer:file, cisco:estreamer:data, cisco:estreamer:ids | estr  |  *_ngfw |
 | cisco:stealthwatch:alert, maltrail:alert  | stw, mlt  | *_ndr  |
-| cisco:amp:event, CrowdStrike:Event:Streams:JSON  | amp, cs  | *_edr  |
+| cisco:amp:event, CrowdStrike:Event:Streams:JSON  | amp, crowd  | *_edr  |
 |  fm:statistics | mail  | *_mail  |
 
 
