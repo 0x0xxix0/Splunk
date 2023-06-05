@@ -41,6 +41,7 @@ SB 9.0 - тут даних нема
 
 Окей погнали..
 В нас є файли 
+
 <img width="555" alt="Screenshot 2023-02-17 at 17 36 06" src="https://user-images.githubusercontent.com/119075926/219697841-f4fa9210-9faa-4b7e-8571-5766c99a24f1.png">
 <img width="1155" alt="Screenshot 2023-02-17 at 17 46 08" src="https://user-images.githubusercontent.com/119075926/219700219-10afb71b-06c6-4aea-9901-54a83f2c24f5.png">
 <img width="1171" alt="Screenshot 2023-02-17 at 17 46 27" src="https://user-images.githubusercontent.com/119075926/219700295-3522f473-4c0a-4280-9341-bc47ce13fc68.png">
