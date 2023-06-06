@@ -60,9 +60,12 @@
 оскільки в нас дані при досягнені віку 20 хв підуть в фрозен.
 Об 2:05:01 повинен перейти в фроузен
 
+
 <img width="478" alt="Screenshot 2023-06-05 at 17 01 51" src="https://github.com/0x0xxix0/Splunk/assets/119075926/a27b6805-06df-4a62-a889-7601858d942b">
 
+
 <img width="469" alt="Screenshot 2023-06-05 at 17 06 25" src="https://github.com/0x0xxix0/Splunk/assets/119075926/f21931bb-c327-4d6b-b71d-14e310897196">
+
 
 Все так і є.
 
